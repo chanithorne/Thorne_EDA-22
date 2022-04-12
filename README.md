@@ -38,6 +38,9 @@ However, att Houston, there were 7 plots with the same species richness of 5 spe
 ## References
 
 Nutrient Network: A Global Research Cooperative. 2016. Retrieved from http://www.nutnet.org/exp_protocol.
+
 MacDougall AS, Bennett JR, Firn J, et al. 2014. Anthropogenic-based regional-scale factors most consistently explain plot-level exotic diversity in grasslands. Global Ecology and Biogeography. 23(7):802–810. doi:10.1111/geb.12157.
+
 McKinney ML. 2008. Effects of urbanization on species richness: A review of plants and animals. Urban Ecosystems. 11(2):161–176. doi:10.1007/s11252-007-0045-4.
+
 Seabloom, Eric W., et al. “Predicting Invasion in Grassland Ecosystems: Is Exotic Dominance the Real Embarrassment of Richness?” Global Change Biology, vol. 19, no. 12, 2013, pp. 3677–3687., https://doi.org/10.1111/gcb.12370. 
