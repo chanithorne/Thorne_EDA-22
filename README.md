@@ -44,3 +44,7 @@ MacDougall AS, Bennett JR, Firn J, et al. 2014. Anthropogenic-based regional-sca
 McKinney ML. 2008. Effects of urbanization on species richness: A review of plants and animals. Urban Ecosystems. 11(2):161–176. doi:10.1007/s11252-007-0045-4.
 
 Seabloom, Eric W., et al. “Predicting Invasion in Grassland Ecosystems: Is Exotic Dominance the Real Embarrassment of Richness?” Global Change Biology, vol. 19, no. 12, 2013, pp. 3677–3687., https://doi.org/10.1111/gcb.12370. 
+
+## Acknowledgements
+
+Field work was funded by a MSUM Strong Summer Scholars grant awarded to Tyler Edvall, Gabriella Ruiz, Jake Pundsack, Jwan Al Selim, and Katie Olson in 2021. Assistance was provided by Elise Bakke and Dr. Alison Wallace.
